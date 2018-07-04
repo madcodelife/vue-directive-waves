@@ -13,7 +13,7 @@ yarn
 或者
 npm install
 ```
-3.启动项目
+3. 启动项目
 ```
 yarn serve
 或者
