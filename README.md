@@ -1,7 +1,8 @@
 # vue_directive_waves
 vue自定义指令(Vue.directive)实现点击水波纹效果
 
-##线上[demo](https://gassnake999.github.io/vue_directive_waves/)
+## 线上[demo](https://gassnake999.github.io/vue_directive_waves/)
+## 线上[demo](https://gassnake999.github.io/vue_directive_waves/)
 
 ![效果图](https://i.loli.net/2019/04/16/5cb5838b618db.gif)
 
